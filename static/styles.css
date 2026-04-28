@@ -241,6 +241,9 @@ a{
     flex-direction: column;
     gap: 32px;
 }
+.contact-content a{
+    color: var(--color-blue-500);
+}
 .mobile-header{
     display: none;
 }
